@@ -4,7 +4,7 @@
 - 👀 I’m interested in ____ 🥺👉👈
 - 🌱 I’m currently learning kinda of a shitty programming language called vb
 - 💞️ I’m looking to collaborate on something idk
-- 📫 You can reach me via <a href="https://twitter.com/EmanuelLopesS2">Twitter</a>
+- 📫 You can reach me via <a href="https://twitter.com/EmanuelLopesS3">Twitter</a>
 
 <!---
 EmanuelLopesS2/EmanuelLopesS2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
