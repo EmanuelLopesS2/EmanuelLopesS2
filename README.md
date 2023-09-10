@@ -1,7 +1,7 @@
 <h2>About me:<h2>
 
 - 👋 Hi, I’m Emanuel Lopes
-- 👀 I’m interested in Ze 🥺👉👈
+- 👀 I’m interested in ____ 🥺👉👈
 - 🌱 I’m currently learning kinda of a shitty programming language called vb
 - 💞️ I’m looking to collaborate on something idk
 - 📫 You can reach me via <a href="https://twitter.com/EmanuelLopesS2">Twitter</a>
